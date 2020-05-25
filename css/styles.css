@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+div {
+    height: 250px;
+    text-align: center;
+}
