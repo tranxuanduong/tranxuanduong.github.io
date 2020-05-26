@@ -4,7 +4,7 @@
         <meta charset="utf8"/>
         <link rel="stylesheet" type="text/css" href="./css/styles.css">
         <link rel="stylesheet" href="./node_modules/@fortawesome/fontawesome-free/css/all.css"/>
-        <title>Tran Xuan Duong</title>
+        <title>Tran Xuan Duong (Home)</title>
     </head>
 
     <body>
